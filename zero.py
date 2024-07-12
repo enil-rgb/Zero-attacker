@@ -1,5 +1,5 @@
 import sys,os
-from colorama import Fore
+from colorama import Fore # type: ignore
 
 print(Fore.MAGENTA+"""
 ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
